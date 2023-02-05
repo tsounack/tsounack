@@ -30,10 +30,12 @@ I am a Master's student with a passion for Machine Learning, Data Science and So
 
 ## Contact Me
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Email][email-shield]][email-url]
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tsounack
-
+[email-shield]: https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&colorB=555
+[email-url]: mailto:tsounack@stanford.edu
 
 <!--
 **tsounack/tsounack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
