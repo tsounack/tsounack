@@ -15,9 +15,9 @@ I am a Master's student with a passion for Machine Learning, Data Science and So
 - Data Structures
 
 ## Projects
-- [Predicting offshore wind turbines' power output using machine learning](https://github.com/tsounack/ENGIE-LEMS--Internship)
+- [Predicting offshore wind turbines' power output using machine learning](https://github.com/tsounack/ENGIE-LEMS--Internship) - 
   A machine learning regression project aimed at predicting offshore wind turbines' power output using satellite data and previous studies.
-- [Trajectory classification for a robotic arm](https://github.com/tsounack/Project-Trajectory-Classification)
+- [Trajectory classification for a robotic arm](https://github.com/tsounack/Project-Trajectory-Classification) - 
   A deep learning classification project for predicting a robotic arm's trajectory profile with the goal of choosing the profile minimizing its jerk.
 
 ## Courses
