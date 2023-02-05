@@ -1,5 +1,39 @@
 ### Hi there 👋
 
+# Welcome to my GitHub page!
+
+I am a Master's student with a passion for Machine Learning, Data Science and Software Engineering. 
+
+## Education
+- Master of Science in Mechanical Engineering, Stanford University (Expected graduation: 2024)
+
+## Skills
+- Machine Learning 
+- Software Engineering 
+- Python 
+- C++
+- Data Structures
+
+## Projects
+- [Predicting offshore wind turbines' power output using machine learning](https://github.com/tsounack/ENGIE-LEMS--Internship)
+  A machine learning regression project aimed at predicting offshore wind turbines' power output using satellite data and previous studies.
+- [Trajectory classification for a robotic arm](https://github.com/tsounack/Project-Trajectory-Classification)
+  A deep learning classification project for predicting a robotic arm's trajectory profile with the goal of choosing the profile minimizing its jerk.
+
+## Courses
+- [Decision making under Uncertainty (reinforcement learning)](https://github.com/tsounack/AA228-Decision-Making)
+- [Machine learning for computational engineering](https://github.com/tsounack/CME216-Machine-Learning)
+- [Software development for scientists and engineers](https://github.com/tsounack/CME211-Software-Engineering)
+- [Programming abstractions (data structures)](https://github.com/tsounack/CS106B-Programming-Abstractions)
+
+
+## Contact Me
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/tsounack
+
+
 <!--
 **tsounack/tsounack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
