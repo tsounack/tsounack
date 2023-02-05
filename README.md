@@ -6,6 +6,7 @@ I am a Master's student with a passion for Machine Learning, Data Science and So
 
 ## Education
 - Master of Science in Mechanical Engineering, Stanford University (Expected graduation: 2024)
+- Bachelor of Science in Mechanical Engineering, Arts et Metiers
 
 ## Skills
 - Machine Learning 
