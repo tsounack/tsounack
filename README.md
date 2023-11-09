@@ -2,7 +2,8 @@
 
 # Welcome to my GitHub page!
 
-I am a Master's student with a passion for Machine Learning, Data Science and Software Engineering. 
+I am a Master's student with a passion for Machine Learning, Data Science and Software Engineering.
+I am also a Graduate Researcher at the Stanford Center for Artificial Intelligence in Medicine and Imaging, where my main research focus is bias in medical imaging.
 
 ## Education
 - Master of Science in Mechanical Engineering, Stanford University (Expected graduation: 2024)
