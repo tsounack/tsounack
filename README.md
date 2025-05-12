@@ -1,3 +1,5 @@
+<!--
+
 ### Hi there 👋
 
 # Welcome to my GitHub page!
@@ -39,7 +41,7 @@ I am also a Graduate Researcher at the Stanford Center for Artificial Intelligen
 [email-shield]: https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&colorB=555
 [email-url]: mailto:tsounack@stanford.edu
 
-<!--
+
 **tsounack/tsounack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
